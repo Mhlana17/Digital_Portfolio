@@ -99,3 +99,41 @@ As a result my final CV is polished and ready for application.
 ---
 
 ## 📹 Mock Interview 
+A brief Interview of some question that may be asked one a real interview is conducted.
+
+---
+
+### 📁 evidence
+[mock interview (mp4)] (https://github.com/Mhlana17/Digital_Portfolio/blob/main/PRP%20Mock%20Interview.mp4)
+
+### 🧠 Reflection (STAR Method)
+
+**S - Situation***
+Participate in a mock interview session that simulates a real interview.
+
+**T - Task**
+To respond to the interview questions confidently.
+
+**A - Action**
+Focusing on maintaining eye contact, listening carefully to questions and answering clearly and confident.
+
+**R - Result**
+I gained valuable insight on how interview process goes and identified areas of improvement.
+
+---
+
+## 📍Career Counselling
+Re-watched videos on the career counselling course i completed last, in order to understand career in the ICT field.
+---
+
+## 📍 Personality Assessment
+As part of my personal and professional development, I completed a personality assessment to better understand my traits, strengths, and areas for growth. This assessment  provided insight into how my personality influences my behavior, communication style, and approach to teamwork.
+
+---
+
+## 📍 Interest Evaluation
+As part of my career development, interest evaluation  is crucial to better understand my preferences, passions, and areas of interest. This was important in helping me identify suitable career paths aligned with my personality and skills, particularly within the ICT field.
+
+---
+
+
