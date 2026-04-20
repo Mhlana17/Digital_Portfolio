@@ -82,6 +82,8 @@ A motivated and detail-oriented third-year Information Communication Technology 
 ### 📁evidence
 [My CV (pdf)](https://github.com/Mhlana17/Digital_Portfolio/blob/main/MHLANA%20SISONKE%20CV.pdf)
 
+---
+
 ### 🧠 Reflection (STAR Method)
 
 **S - Situation**
@@ -105,6 +107,8 @@ A brief Interview of some question that may be asked one a real interview is con
 
 ### 📁 evidence
 [mock interview (mp4)](https://github.com/Mhlana17/Digital_Portfolio/blob/main/PRP%20Mock%20Interview.mp4)
+
+---
 
 ### 🧠 Reflection (STAR Method)
 
@@ -137,3 +141,28 @@ As part of my career development, interest evaluation  is crucial to better unde
 ---
 
 
+
+## 📃 GitHub Published Pages
+
+---
+
+### 📁 evidence 
+[GitHub pages](https://github.com/Mhlana17/Digital_Portfolio/deployments/github-pages)
+
+---
+
+### 🧠 Reflection (STAR Method)
+
+**S – Situation**
+As part of my studies, I used GitHub Pages to create and publish a personal or project website.
+
+**T – Task**
+My task was to upload my project files, manage them using GitHub, and successfully deploy a working website online.
+
+**A – Action**
+I created a repository, uploaded my Markdown and enabled GitHub Pages in the settings. I tested the site and fixed errors to ensure it displayed correctly.
+
+**R – Result**
+I successfully published my website and learned how to host projects online. This improved my skills in version control and web development, and gave me confidence to showcase my work professionally.
+
+---
