@@ -104,7 +104,7 @@ A brief Interview of some question that may be asked one a real interview is con
 ---
 
 ### 📁 evidence
-[mock interview (mp4)] (https://github.com/Mhlana17/Digital_Portfolio/blob/main/PRP%20Mock%20Interview.mp4)
+[mock interview (mp4)](https://github.com/Mhlana17/Digital_Portfolio/blob/main/PRP%20Mock%20Interview.mp4)
 
 ### 🧠 Reflection (STAR Method)
 
