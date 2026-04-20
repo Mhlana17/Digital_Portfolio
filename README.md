@@ -79,6 +79,23 @@ A motivated and detail-oriented third-year Information Communication Technology 
 - **Email:** oheik@cput.ac.za  
 
 ---
-## 📁evidence
-[My CV (pdf)]
+### 📁evidence
+[My CV (pdf)](https://github.com/Mhlana17/Digital_Portfolio/blob/main/MHLANA%20SISONKE%20CV.pdf)
 
+### 🧠 Reflection (STAR Method)
+
+**S - Situation**
+I was required to create a CV.
+
+**T - Task**
+Develop a clear, well-structured, and professional CV highlighting education,skills and career objectives.
+
+**A - Action**
+I researched CV writing guidelines and structured template, reviewed examples, and refined mine.
+
+**R - Result**
+As a result my final CV is polished and ready for application.
+
+---
+
+## 📹 Mock Interview 
