@@ -27,7 +27,7 @@ This online portfolio documents my growth, reflections. It includes artifacts fr
 - **Languages:** IsiXhosa, IsiZulu, English  
 - **Nationality:** South African  
 - **Contact Details:**  
-  - Phone: 063 0666 563  
+  - Phone: 076 5348 823  
   - Email: 221805486@mycput.ac.za
            mhlanasisonke17@gmail.com 
 
